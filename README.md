@@ -3,4 +3,4 @@ Este es mi primer repositorio siguiendo el curso de MoureDev. y su nombre es: Re
 Este es un cambio hecho desde mi PC 
 Este es un cambio hecho desde la Web.
 Este es un cambio para comprobar la carpeta clonada y dar nombre al nuevo integrante del equipo. Le voy a llamar PEDROLAS
-He añadido el correo de PEDROLAS al proyecto (PEDROLAScolaborador@ejemplo.com)
+He vuelto a añadidir el correo de PEDROLAS al proyecto (PEDROLAScolaborador@ejemplo.com)
