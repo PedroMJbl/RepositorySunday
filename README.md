@@ -6,3 +6,4 @@ Este es un cambio para comprobar la carpeta clonada y dar nombre al nuevo integr
 He vuelto a añadidir el correo de PEDROLAS al proyecto (PEDROLAScolaborador@ejemplo.com)
 "Verificando identidad de PedroMJbl"
 HOLA SOY PEDROLAS
+Haciendo la prueba del segundo mail m03121917@gmail.com
